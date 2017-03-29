@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## The Universe
 
-You can use the [editor on GitHub](https://github.com/alexandarkotevski/alexandarkotevski.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Universe is a vast environment. It contains many stars, planets and galaxies. When you look at the night sky you are only seeing a very tiny part of the Universe. It is so big that we cannot see all of it. But everything you see in the night sky is part of the Universe. In this book you will learn about what is found in the Universe, including our Solar System, and all eight of our planets, including our home; Earth. Learn about space, galaxies and stars. Immerse yourself in a world outside of our own. Download "The Universe" now to be taken on a journey through everything we know so far about the Universe.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Click here to download The Universe.](https://itunes.apple.com/au/book/the-universe/id633419922?mt=13)
 
-### Markdown
+### Mill Park Weather
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Click here to access the website.](http://millparkweather.x10.mx/)
 
-```markdown
-Syntax highlighted code block
+### YouTube Videos
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexandarkotevski/alexandarkotevski.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Click here to go to YouTube.](http://www.youtube.com/alexandarproductions)
